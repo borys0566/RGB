@@ -6,7 +6,7 @@ Jak zainstlować?
 - Naciskamy na "Mysz" 
 - Wskaźnik - Zapisz jako - (Nazwyamy jak chcemy) - Przeglądaj. Teraz szukamy naszego folderu z plikami i podmieniamy. (To nie jest po koleji patrz na obrazki tu i tu)
 - Teraz zastosuj jak będzie jakiś komuniakat naciskamy "Tak" następnie "Ok"
-
+------------Pamiętaj nie usuwaj tego folderu, ponieważ wskaźnik wróci do pierwotnej formy
 Jak zamienić na wcześniejszy wskaźnik?
 
 - Naciskamy przycisk Windows na klawiaturze i wpisujemy Panel Sterowania
